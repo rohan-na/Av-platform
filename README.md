@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PX4 Drone Autopilot
 
 [![Releases](https://img.shields.io/github/release/PX4/Firmware.svg)](https://github.com/PX4/Firmware/releases) [![DOI](https://zenodo.org/badge/22634/PX4/Firmware.svg)](https://zenodo.org/badge/latestdoi/22634/PX4/Firmware)
@@ -98,3 +99,7 @@ Additional information about supported hardware can be found in [PX4 user Guide 
 ## Project Roadmap
 
 A high level project roadmap is available [here](https://www.dronecode.org/roadmap/).
+=======
+# Av-platform
+This repository contains the package used for developing an autonomous vehicle platform.
+>>>>>>> 0b096f1f8dc3dc85abd415a5d8872a113c9c9a07
